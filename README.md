@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-System+Monitor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Process+Monitor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 System Informer Free Installer** — System Informer (formerly Process Hacker) is a free, open-source advanced Windows process and system monitor. Works without internet access, no account required. Full offline installation.
+**💻 System Informer Free Installer** — System Informer (formerly Process Hacker) is a free, powerful process management and system monitoring tool for Windows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About System Informer
 
-System Informer (formerly Process Hacker) is a free, open-source advanced Windows process and system monitor. View detailed information about running processes, threads, handles, and network connections. Monitor CPU, memory, disk, and network usage in real time. System Informer's detailed system visibility makes it an essential tool for developers, system administrators, and security researchers.
+System Informer (formerly Process Hacker) is a free, powerful process management and system monitoring tool for Windows. It provides real-time process tree visualization, network connections per process, memory maps, handles, and extensive kernel-level information.
 
 ---
 
 ## ❌ Problem: System Informer is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Technical Complexity** — Detailed system information requires technical knowledge to interpret
-- **Antivirus Conflicts** — Advanced process inspection may trigger antivirus false positives
-- **Administrative Rights** — Full functionality requires running with administrator privileges
+- **Windows Only** — Not available on macOS or Linux
+- **Technical Complexity** — Advanced features require deep Windows internals knowledge
+- **Anti-Cheat Conflicts** — Some game anti-cheat systems flag it as suspicious software
+- **No Recommendations** — Raw data displayed without guidance on what to act on
 
 ---
 
@@ -121,7 +121,7 @@ System Informer (formerly Process Hacker) is a free, open-source advanced Window
 
 ---
 
-**System Informer Free Installer** — System Informer (formerly Process Hacker) is a free, open-source advanced Windows process and system monitor. Install without internet connection today!
+**System Informer Free Installer** — System Informer (formerly Process Hacker) is a free, powerful process management and system monitoring tool for Windows. Install without internet connection today!
 
 <div align="center">
 
